@@ -15,5 +15,15 @@ public class ContactTest {
 	{
 		System.out.println("This is to create contacts with Organization");
 	}
+	
+	@Test
+	public void createLeadTest()
+	{
+		System.out.println("create lead -vivek");
+	}
+	
+	
+	
+	
 
 }
