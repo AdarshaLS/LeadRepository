@@ -8,6 +8,7 @@ public class ProductTest {
 	public void createProductTest()
 	{
 		System.out.println("Product page is created");
+		
 	}
 	
 	
